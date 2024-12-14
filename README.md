@@ -15,7 +15,7 @@ Document: ClientLogin_Testing.pdf.
 Performance Testing Reports:
 
 Flask App:
-Performance report available in ClientRegLoadTestresults.csv.
+Performance report available in ClientRegLoadTestresults.csv. and also Jmeter_ClientRegistration_Runs(screenshot) , FlaskAppTest.jmx and aggregate.csv file (perform on jmeter)
 Wikipedia App:
 Reports: WikiAPP_PerformanceTest.pdf and WikiAPP_PerformanceTestReport2.pdf.
 Note: During the performance testing of the Wikipedia app, the application crashed three times. However, the Appium tool report does not reflect these crashes.
