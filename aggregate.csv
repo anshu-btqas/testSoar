@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Debug Sampler,10,0,0,0,0,1,0,1,0.000%,5.54324,2.00,0.00
+HTTP Request,10,11,5,13,13,54,3,54,0.000%,5.53710,8.31,3.33
+TOTAL,20,5,1,12,13,54,0,54,0.000%,11.06195,10.30,3.33
