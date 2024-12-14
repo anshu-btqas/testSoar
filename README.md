@@ -21,4 +21,4 @@ Reports: WikiAPP_PerformanceTest.pdf and WikiAPP_PerformanceTestReport2.pdf.
 Note: During the performance testing of the Wikipedia app, the application crashed three times. However, the Appium tool report does not reflect these crashes.
 
 Test Management:
-All test management-related details are documented in TestManageme
+All test management-related details are documented in TestManagement.pdf
